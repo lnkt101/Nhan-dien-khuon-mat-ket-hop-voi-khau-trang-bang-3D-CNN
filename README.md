@@ -3,8 +3,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/logodnu.webp" alt="DaiNam University Logo" width="200"/>
-    <img src="./anhimage/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+  <img src="./image/logodnu.png" alt="DaiNam University Logo" width="200"/>
+    <img src="./image/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -34,7 +34,7 @@ Nếu như CNN thông thường chỉ hoạt động trên dữ liệu 2D (chi�
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="./anhimage/cbyolov7" alt="System Architecture" width="800"/>
+  <img src="./image/cbyolov7" alt="System Architecture" width="800"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Nếu như CNN thông thường chỉ hoạt động trên dữ liệu 2D (chi�
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/cnyolov7.avif" alt="System Architecture" width="800"/>
+  <img src="./image/CNN.png" alt="System Architecture" width="800"/>
 </p>
 </div>
 
