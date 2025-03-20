@@ -12,7 +12,7 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
-<h2 align="center">Sử Dụng 3D CNN Để Nhận Diện Khuôn Mặt Cùng Kết hợp với khẩu trang</h2>
+<h2 align="center">Sử Dụng 3D CNN Để Nhận Diện Khuôn Mặt Cùng Kết Hợp Với Khẩu Trang</h2>
 
 <p align="left">
 Nhận diện khuôn mặt bằng 3D Convolutional Neural Network (3D CNN) là một ứng dụng tiên tiến của công nghệ AI trong việc phân tích và nhận diện khuôn mặt. Công nghệ này sử dụng mạng nơ-ron tích chập 3D để phân tích các đặc điểm không gian và thời gian của khuôn mặt, cho phép hệ thống nhận diện chính xác ngay cả khi có sự thay đổi về ánh sáng, góc nhìn hoặc có vật cản như khẩu trang
