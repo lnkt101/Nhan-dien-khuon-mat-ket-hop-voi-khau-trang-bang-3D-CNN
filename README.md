@@ -159,8 +159,8 @@ Dự án được phát triển bởi 3 thành viên:
 
 | Họ và Tên                | Vai trò                  |
 |--------------------------|--------------------------|
-| Vũ Ngọc Tiến            | Phát triển toàn bộ mã nguồn,kiểm thử, triển khai dự án và thực hiện video giới thiệu, thuyết trình, đề xuất cải tiến.|
+| Vũ Ngọc Tiến            | Phát triển toàn bộ mã nguồn,kiểm thử, triển khai dự án , thuyết trình, đề xuất cải tiến.|
 | Lương Anh Vũ            | Biên soạn tài liệu Overleaf ,hỗ trợ bài tập lớn.|
-| Lê Nguyễn Khánh Tùng    | Hỗ trợ bài tập lớn ,Powerpoint.  |
+| Lê Nguyễn Khánh Tùng    | Hỗ trợ bài tập lớn ,Powerpoint và thực hiện video giới thiệu.  |
 
 © 2025 NHÓM 3, CNTT 17-15, TRƯỜNG ĐẠI HỌC ĐẠI NAM
